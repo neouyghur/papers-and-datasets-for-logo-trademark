@@ -2,3 +2,4 @@
 
 ## Datasets
 ### Similarity retrieval
+[http://kovan.ceng.metu.edu.tr/LogoDataset/]METU trademark dataset
