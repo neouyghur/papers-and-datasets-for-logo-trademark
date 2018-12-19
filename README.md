@@ -1,1 +1,4 @@
-# papers-and-datasets-for-logo-trademark
+# Papers and datasets for logo/trademark
+
+## Datasets
+### Similarity retrieval
